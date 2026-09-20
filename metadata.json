@@ -1,0 +1,6 @@
+{
+  "name": "StudySync AI",
+  "description": "Adaptive study companion for students preparing for an exam with automated topic extraction, custom study plans, session timers, flashcards, quizzes, backlog recovery, and notes-grounded AI chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
